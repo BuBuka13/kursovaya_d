@@ -1,0 +1,164 @@
+body{
+    padding: 0;
+    margin: 0;
+    color: black;
+    font-size: 16px;
+    font-family: 'Vollkorn', serif;
+    font-weight: 400;
+    word-spacing: 0.03em;
+}
+
+.fon{
+    background-color: #c9f1e3;
+
+}
+.container{
+    width:1110px;
+    margin: 0 auto;
+    padding:25px;
+}
+.ar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo{
+    color: black;
+    font-size: 20px;
+
+}
+.logo:hover{
+    color: black;
+    font-weight: bold;
+}
+.header-content{
+
+    background-color: #fffdfa;
+}
+.intro{
+    width:1110px;
+    margin: 0 auto;
+    padding:25px;
+
+}
+
+.place{
+    font-size: 50px;
+    font-weight: lighter;
+}
+.place2{
+    font-size: 20px;
+    font-weight: lighter;
+}
+h2{
+    color: black;
+    font-weight: 500
+}
+.navi{
+    background: linear-gradient(125deg, #fffdfa, #c9f1e3, #fffdfa);
+}
+nav{
+
+    font-size: 20px;
+    font-weight: 100;
+    width:1110px;
+    margin: 0 auto;
+    padding:25px;
+
+}
+.oglavl{
+    font-size: 25px;
+    font-weight: normal;
+}
+.oglav{
+    font-size: 20px;
+}
+a{
+    color: #55a990;
+
+}
+a:hover{
+    color: black;
+    font-weight: normal;
+}
+
+main{
+
+    width:1110px;
+    margin: 0 auto;
+    padding:25px;
+}
+.button{
+    text-align: center;
+
+}
+button{
+    width:50%; max-width:400px;
+    min-width:300px;
+    padding: 15px 15px 15px 15px;
+    margin: 50px auto 50px auto;
+    border: 2px solid #7bb2a3;
+    border-radius: 4px;
+    font-family: 'Vollkorn', serif;;
+    background-color: #c9f1e3;
+    font-size: 16px;
+}
+button:hover {
+    background-color: #67dec3; /* Green */
+    color: rgba(0, 0, 0, 0.85);
+}
+.foot{
+    background-color: #43967b;
+}
+footer{
+    width:1110px;
+    margin: 0 auto;
+    padding:25px;
+    font-size: 16px;
+    text-align: center;
+
+}
+.names{
+    text-decoration-line: underline;
+    text-decoration-color: black;
+    text-decoration-style: solid;
+}
+
+.form{
+    font-size: 20px;
+}
+.tell{
+    text-decoration-line: underline;
+    text-decoration-color: black;
+    text-decoration-style: solid;
+
+
+}
+.btn{
+    width:50%; max-width:300px;
+    min-width:300px;
+    padding: 5px 5px 5px 5px;
+    margin: 10px auto 10px auto;
+    border: 2px solid #7bb2a3;
+    border-radius: 4px;
+    font-family: 'Vollkorn', serif;;
+    background-color: #ddfaf3;
+    font-size: 16px;
+}
+
+.btn:hover{
+    background-color: #67dec3; /* Green */
+    color: rgba(0, 0, 0, 0.85);
+}
+.sport{
+    float: left;
+
+}
+.img{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
